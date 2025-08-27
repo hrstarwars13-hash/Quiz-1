@@ -1,0 +1,526 @@
+{
+  "states": [
+    {
+      "state": "Wyoming",
+      "flag_file": "state_flags_png/Wyoming.png",
+      "rgb": [
+        0.3641362943364235,
+        0.29247109757431566,
+        0.47172849025419095
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "Arizona",
+      "flag_file": "state_flags_png/Arizona.png",
+      "rgb": [
+        0.45983030302622513,
+        0.280538266963081,
+        0.2277098382819453
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Oklahoma",
+      "flag_file": "state_flags_png/Oklahoma.png",
+      "rgb": [
+        0.08374749698561708,
+        0.46866067311349874,
+        0.763628464746074
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "Vermont",
+      "flag_file": "state_flags_png/Vermont.png",
+      "rgb": [
+        0.06498537245720765,
+        0.23756679445495624,
+        0.3891079444298078
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Rhode Island",
+      "flag_file": "state_flags_png/Rhode_Island.png",
+      "rgb": [
+        0.9852630846609477,
+        0.9687909603077342,
+        0.9056608881399782
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "Missouri",
+      "flag_file": "state_flags_png/Missouri.png",
+      "rgb": [
+        0.5281861975317765,
+        0.3590194256618057,
+        0.4876180714643479
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Montana",
+      "flag_file": "state_flags_png/Montana.png",
+      "rgb": [
+        0.16750689226093074,
+        0.28570835419178653,
+        0.4646036759323056
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Louisiana",
+      "flag_file": "state_flags_png/Louisiana.png",
+      "rgb": [
+        0.16786735362508504,
+        0.376733425152678,
+        0.5462541219353504
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "Arkansas",
+      "flag_file": "state_flags_png/Arkansas.png",
+      "rgb": [
+        0.6814156396682026,
+        0.24222540407085236,
+        0.37835002458157496
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "New Mexico",
+      "flag_file": "state_flags_png/New_Mexico.png",
+      "rgb": [
+        0.9908115205498378,
+        0.7388179009936697,
+        0.004836161335874028
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Illinois",
+      "flag_file": "state_flags_png/Illinois.png",
+      "rgb": [
+        0.9351615079816537,
+        0.9202314410088139,
+        0.9023482283283835
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "California",
+      "flag_file": "state_flags_png/California.png",
+      "rgb": [
+        0.8585509621354033,
+        0.7453601099801194,
+        0.7454810385446272
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "Ohio",
+      "flag_file": "state_flags_png/Ohio.png",
+      "rgb": [
+        0.4522515099789916,
+        0.2821012354594616,
+        0.3768865983893558
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Hawaii",
+      "flag_file": "state_flags_png/Hawaii.png",
+      "rgb": [
+        0.660781172210095,
+        0.4001601499669692,
+        0.5192127377379174
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Kentucky",
+      "flag_file": "state_flags_png/Kentucky.png",
+      "rgb": [
+        0.07985488939894139,
+        0.0790610562406781,
+        0.4221270823670377
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Maine",
+      "flag_file": "state_flags_png/Maine.png",
+      "rgb": [
+        0.05065032508898851,
+        0.1889310815520446,
+        0.4021637086719756
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Nevada",
+      "flag_file": "state_flags_png/Nevada.png",
+      "rgb": [
+        0.023682155077440932,
+        0.21511228576350014,
+        0.6500633211053455
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Mississippi",
+      "flag_file": "state_flags_png/Mississippi.png",
+      "rgb": [
+        0.4339327806651977,
+        0.17509053333772434,
+        0.2588740571808935
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Washington",
+      "flag_file": "state_flags_png/Washington.png",
+      "rgb": [
+        0.10580107491991049,
+        0.5295896079336908,
+        0.3458625682672494
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "Wisconsin",
+      "flag_file": "state_flags_png/Wisconsin.png",
+      "rgb": [
+        0.09756042447176529,
+        0.22722985275277754,
+        0.5222650698960039
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Nebraska",
+      "flag_file": "state_flags_png/Nebraska.png",
+      "rgb": [
+        0.12215631137430542,
+        0.2475259106849173,
+        0.4895899260813853
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Kansas",
+      "flag_file": "state_flags_png/Kansas.png",
+      "rgb": [
+        0.09340717710129655,
+        0.21963257373898257,
+        0.39480085410080157
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "South Carolina",
+      "flag_file": "state_flags_png/South_Carolina.png",
+      "rgb": [
+        0.11017954754650762,
+        0.20235263727105043,
+        0.32997587372247583
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Tennessee",
+      "flag_file": "state_flags_png/Tennessee.png",
+      "rgb": [
+        0.6761769209159642,
+        0.09458122265600051,
+        0.1376715549055534
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "New York",
+      "flag_file": "state_flags_png/New_York.png",
+      "rgb": [
+        0.12499106164072074,
+        0.2556399850284352,
+        0.4453721513935164
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "North Carolina",
+      "flag_file": "state_flags_png/North_Carolina.png",
+      "rgb": [
+        0.6299922633081417,
+        0.42966559862414955,
+        0.5180196064974306
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Oregon",
+      "flag_file": "state_flags_png/Oregon.png",
+      "rgb": [
+        0.09752906389953493,
+        0.08277391746870782,
+        0.45123697916666666
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Indiana",
+      "flag_file": "state_flags_png/Indiana.png",
+      "rgb": [
+        0.0573293464530761,
+        0.09702749099273678,
+        0.34370773920384406
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Delaware",
+      "flag_file": "state_flags_png/Delaware.png",
+      "rgb": [
+        0.47849054999928226,
+        0.6124148448041369,
+        0.5980628720878908
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "Maryland",
+      "flag_file": "state_flags_png/Maryland.png",
+      "rgb": [
+        0.6331598717451842,
+        0.44986722921690636,
+        0.3017947185050814
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "West Virginia",
+      "flag_file": "state_flags_png/West_Virginia.png",
+      "rgb": [
+        0.6678713033508858,
+        0.6961517916825821,
+        0.7236245208310598
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "New Hampshire",
+      "flag_file": "state_flags_png/New_Hampshire.png",
+      "rgb": [
+        0.11840013309038842,
+        0.24316905282885481,
+        0.4994530431361784
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Georgia",
+      "flag_file": "state_flags_png/Georgia.png",
+      "rgb": [
+        0.605331205480239,
+        0.27007028617110906,
+        0.3704993812710631
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Idaho",
+      "flag_file": "state_flags_png/Idaho.png",
+      "rgb": [
+        0.08098551639909371,
+        0.2539370628401609,
+        0.43017517619268897
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "South Dakota",
+      "flag_file": "state_flags_png/South_Dakota.png",
+      "rgb": [
+        0.1208442897422641,
+        0.49913689108455883,
+        0.6368747785979626
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "North Dakota",
+      "flag_file": "state_flags_png/North_Dakota.png",
+      "rgb": [
+        0.10083289104830284,
+        0.26620771052767456,
+        0.41936854890267755
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Texas",
+      "flag_file": "state_flags_png/Texas.png",
+      "rgb": [
+        0.6093468635166365,
+        0.4149939420771969,
+        0.5501038829468463
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Alabama",
+      "flag_file": "state_flags_png/Alabama.png",
+      "rgb": [
+        0.887803013889487,
+        0.6331856588490081,
+        0.6806530333125198
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "Florida",
+      "flag_file": "state_flags_png/Florida.png",
+      "rgb": [
+        0.8879038073181322,
+        0.6173424300860534,
+        0.6071258643922429
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "Virginia",
+      "flag_file": "state_flags_png/Virginia.png",
+      "rgb": [
+        0.19463450495040624,
+        0.27381666406496713,
+        0.4755277581155083
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Massachusetts",
+      "flag_file": "state_flags_png/Massachusetts.png",
+      "rgb": [
+        0.9358485509177205,
+        0.9357407591752092,
+        0.9396844075832694
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "Utah",
+      "flag_file": "state_flags_png/Utah.png",
+      "rgb": [
+        0.5335009338375009,
+        0.3751115340782078,
+        0.40736234067629495
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Connecticut",
+      "flag_file": "state_flags_png/Connecticut.png",
+      "rgb": [
+        0.2591639465188182,
+        0.3535981548172243,
+        0.5534962584204995
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "Alaska",
+      "flag_file": "state_flags_png/Alaska.png",
+      "rgb": [
+        0.0674444630895235,
+        0.13087834848669758,
+        0.2920697923446695
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Minnesota",
+      "flag_file": "state_flags_png/Minnesota.png",
+      "rgb": [
+        0.20227524030784952,
+        0.5252126644631794,
+        0.6721514276262215
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "Colorado",
+      "flag_file": "state_flags_png/Colorado.png",
+      "rgb": [
+        0.3856880284141475,
+        0.3582317493020268,
+        0.47655842923736114
+      ],
+      "cluster": 2
+    },
+    {
+      "state": "New Jersey",
+      "flag_file": "state_flags_png/New_Jersey.png",
+      "rgb": [
+        0.9309905904833524,
+        0.7472039463867934,
+        0.40804444291921316
+      ],
+      "cluster": 0
+    },
+    {
+      "state": "Iowa",
+      "flag_file": "state_flags_png/Iowa.png",
+      "rgb": [
+        0.6578338038660274,
+        0.45387338997642185,
+        0.5668727682730622
+      ],
+      "cluster": 3
+    },
+    {
+      "state": "Michigan",
+      "flag_file": "state_flags_png/Michigan.png",
+      "rgb": [
+        0.10633051250789481,
+        0.22364778348656444,
+        0.47497378675573454
+      ],
+      "cluster": 1
+    },
+    {
+      "state": "Pennsylvania",
+      "flag_file": "state_flags_png/Pennsylvania.png",
+      "rgb": [
+        0.1098039369487755,
+        0.22042183747243876,
+        0.3457023098521537
+      ],
+      "cluster": 1
+    }
+  ],
+  "centroids": [
+    [
+      0.8861741025921979,
+      0.7830008871845393,
+      0.7390778030064118
+    ],
+    [
+      0.09832971183184747,
+      0.20792844209725958,
+      0.4338044600721461
+    ],
+    [
+      0.24089047498326638,
+      0.44622767869392327,
+      0.5627352679080889
+    ],
+    [
+      0.61089649902143,
+      0.35472257994668255,
+      0.36470083871766007
+    ]
+  ]
+}

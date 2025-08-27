@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f8f8f8;
+}
+h1 {
+  text-align: center;
+}
+#clusters {
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+.cluster-group {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 20px;
+  min-width: 220px;
+}
+.cluster-group h2 {
+  text-align: center;
+  margin-top: 0;
+}
+.state-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.state-item img {
+  width: 40px;
+  height: 28px;
+  object-fit: cover;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
